@@ -28,7 +28,7 @@ defmodule Day01Test do
     assert Day01.calibration(input) == 281
   end
 
-  test "custom input" do
+  test "puzzle input" do
     input =
       """
       5ffour295
